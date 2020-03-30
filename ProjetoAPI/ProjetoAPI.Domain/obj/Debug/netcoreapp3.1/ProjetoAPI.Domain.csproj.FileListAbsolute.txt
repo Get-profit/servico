@@ -1,0 +1,8 @@
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI.Domain.deps.json
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI.Domain.dll
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI.Domain.pdb
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI.Domain.AssemblyInfo.cs
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI.Domain.dll
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI.Domain.pdb
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI.Domain.csprojAssemblyReference.cache

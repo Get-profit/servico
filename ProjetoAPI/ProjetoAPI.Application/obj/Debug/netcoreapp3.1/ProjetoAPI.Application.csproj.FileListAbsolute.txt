@@ -1,0 +1,11 @@
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Application\bin\Debug\netcoreapp3.1\ProjetoAPI.Application.deps.json
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Application\bin\Debug\netcoreapp3.1\ProjetoAPI.Application.dll
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Application\bin\Debug\netcoreapp3.1\ProjetoAPI.Application.pdb
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Application\bin\Debug\netcoreapp3.1\ProjetoAPI.Domain.dll
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Application\bin\Debug\netcoreapp3.1\ProjetoAPI.Domain.pdb
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Application\obj\Debug\netcoreapp3.1\ProjetoAPI.Application.csprojAssemblyReference.cache
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Application\obj\Debug\netcoreapp3.1\ProjetoAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Application\obj\Debug\netcoreapp3.1\ProjetoAPI.Application.AssemblyInfo.cs
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Application\obj\Debug\netcoreapp3.1\ProjetoAPI.Application.csproj.CopyComplete
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Application\obj\Debug\netcoreapp3.1\ProjetoAPI.Application.dll
+C:\Users\Renat\Desktop\ProjetoAPI\ProjetoAPI.Application\obj\Debug\netcoreapp3.1\ProjetoAPI.Application.pdb
