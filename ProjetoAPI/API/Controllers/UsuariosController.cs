@@ -34,7 +34,7 @@ namespace API.Controllers
         public IActionResult Recuperar(int id)
         {
             var mapper = new Mapper(AutoMapperConfig.RegisterMappings());
-            var model = mapper.Map<List<UsuariosModel>>(_usuariosAppService.GetById(id));
+            var model = mapper.Map<UsuariosModel>(_usuariosAppService.GetById(id));
             if (model == null)
             {
                 return NotFound();
@@ -43,7 +43,7 @@ namespace API.Controllers
         }
 
         [HttpPost]
-        public IActionResult Inserir(UsuariosModel model)
+        public IActionResult Inserir([FromBody] UsuariosModel model)
         {
             if (ModelState.IsValid)
             {
@@ -57,7 +57,7 @@ namespace API.Controllers
         }
 
         [HttpPut]
-        public IActionResult Alterar([FromForm] UsuariosModel model)
+        public IActionResult Alterar([FromBody] UsuariosModel model)
         {
             if (ModelState.IsValid)
             {

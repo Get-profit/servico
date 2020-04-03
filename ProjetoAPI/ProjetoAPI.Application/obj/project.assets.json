@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Application\\ProjetoAPI.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Application\\ProjetoAPI.Application.csproj",
       "projectName": "ProjetoAPI.Application",
-      "projectPath": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Application\\ProjetoAPI.Application.csproj",
+      "projectPath": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Application\\ProjetoAPI.Application.csproj",
       "packagesPath": "C:\\Users\\Renat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Application\\obj\\",
+      "outputPath": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -59,8 +59,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj"
+            "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj"
             }
           }
         }

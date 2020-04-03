@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj": {}
+    "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj": {
+    "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj",
         "projectName": "ProjetoAPI.Domain",
-        "projectPath": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\Renat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

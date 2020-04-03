@@ -8373,11 +8373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Renat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\API\\obj\\",
+      "outputPath": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8398,14 +8398,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\Infrastructure.Data\\ProjetoAPI.Infrastructure.Data.csproj": {
-              "projectPath": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\Infrastructure.Data\\ProjetoAPI.Infrastructure.Data.csproj"
+            "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\Infrastructure.Data\\ProjetoAPI.Infrastructure.Data.csproj": {
+              "projectPath": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\Infrastructure.Data\\ProjetoAPI.Infrastructure.Data.csproj"
             },
-            "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Application\\ProjetoAPI.Application.csproj": {
-              "projectPath": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Application\\ProjetoAPI.Application.csproj"
+            "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Application\\ProjetoAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Application\\ProjetoAPI.Application.csproj"
             },
-            "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\Renat\\Desktop\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj"
+            "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\Renat\\Documents\\GitHub\\Projeto GetProfit\\servico\\ProjetoAPI\\ProjetoAPI.Domain\\ProjetoAPI.Domain.csproj"
             }
           }
         }

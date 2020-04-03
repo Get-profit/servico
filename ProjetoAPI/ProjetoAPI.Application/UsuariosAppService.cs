@@ -12,5 +12,10 @@ namespace ProjetoAPI.Application
         {
             _usuariosService = usuariosService;
         }
+
+        public Usuarios Logar(string login, string senha)
+        {
+            return _usuariosService.Logar(login, senha);
+        }
     }
 }

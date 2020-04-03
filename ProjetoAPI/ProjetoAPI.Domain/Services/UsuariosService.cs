@@ -12,5 +12,10 @@ namespace ProjetoAPI.Domain.Services
         {
             _usuariosRepository = usuariosRepository;
         }
+
+        public Usuarios Logar(string login, string senha)
+        {
+            return _usuariosRepository.Logar(login, senha);
+        }
     }
 }

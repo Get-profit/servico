@@ -11,3 +11,16 @@ C:\Users\Renat\Desktop\ProjetoAPI\Infrastructure.Data\obj\Debug\netcoreapp3.1\Pr
 C:\Users\Renat\Desktop\ProjetoAPI\Infrastructure.Data\obj\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.csproj.CopyComplete
 C:\Users\Renat\Desktop\ProjetoAPI\Infrastructure.Data\obj\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.dll
 C:\Users\Renat\Desktop\ProjetoAPI\Infrastructure.Data\obj\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.pdb
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\bin\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.deps.json
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\bin\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.runtimeconfig.json
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\bin\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.runtimeconfig.dev.json
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\bin\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.dll
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\bin\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.pdb
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\bin\Debug\netcoreapp3.1\ProjetoAPI.Domain.dll
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\bin\Debug\netcoreapp3.1\ProjetoAPI.Domain.pdb
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\obj\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\obj\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\obj\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\obj\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\obj\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.dll
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\Infrastructure.Data\obj\Debug\netcoreapp3.1\ProjetoAPI.Infrastructure.Data.pdb
