@@ -26,7 +26,7 @@ namespace API.Controllers
         public IActionResult RecuperarTodos()
         {
             var mapper = new Mapper(AutoMapperConfig.RegisterMappings());
-            var model = mapper.Map<IEnumerable<OrdemServico>, IEnumerable<OrdemServicoModel>>(_ordemServicoAppService.GetAll());
+            var model = mapper.Map<IEnumerable<OrdemServico>, IEnumerable<OrdemServicoModel>>(_ordemServicoAppService.RecuperaListaOrdemServico());
             return Ok(model);
         }
 
@@ -34,7 +34,7 @@ namespace API.Controllers
         public IActionResult Recuperar(int id)
         {
             var mapper = new Mapper(AutoMapperConfig.RegisterMappings());
-            var model = mapper.Map<OrdemServicoModel>(_ordemServicoAppService.GetById(id));
+            var model = mapper.Map<OrdemServicoModel>(_ordemServicoAppService.RecuperaOrdemServico(id));
             if (model == null)
             {
                 return NotFound();

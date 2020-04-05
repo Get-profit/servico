@@ -79,7 +79,7 @@ namespace API.Controllers
             return NoContent(); //203
         }
 
-        [HttpGet("{prefix}")]
+        [HttpPost("{prefix}")]
         public IActionResult BuscarClientePorNome(string prefix)
         {
             var mapper = new Mapper(AutoMapperConfig.RegisterMappings());
