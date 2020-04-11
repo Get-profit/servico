@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProjetoAPI.Application.Interface;
 using ProjetoAPI.Domain.Entities;
+using System;
 
 namespace API.Controllers
 {

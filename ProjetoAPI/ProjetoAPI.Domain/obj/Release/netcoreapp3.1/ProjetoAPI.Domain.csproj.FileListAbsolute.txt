@@ -1,0 +1,8 @@
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\ProjetoAPI.Domain\bin\Release\netcoreapp3.1\ProjetoAPI.Domain.deps.json
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\ProjetoAPI.Domain\bin\Release\netcoreapp3.1\ProjetoAPI.Domain.dll
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\ProjetoAPI.Domain\bin\Release\netcoreapp3.1\ProjetoAPI.Domain.pdb
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\ProjetoAPI.Domain\obj\Release\netcoreapp3.1\ProjetoAPI.Domain.csprojAssemblyReference.cache
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\ProjetoAPI.Domain\obj\Release\netcoreapp3.1\ProjetoAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\ProjetoAPI.Domain\obj\Release\netcoreapp3.1\ProjetoAPI.Domain.AssemblyInfo.cs
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\ProjetoAPI.Domain\obj\Release\netcoreapp3.1\ProjetoAPI.Domain.dll
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\ProjetoAPI.Domain\obj\Release\netcoreapp3.1\ProjetoAPI.Domain.pdb
