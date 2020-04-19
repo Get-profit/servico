@@ -18,8 +18,7 @@ namespace ProjetoAPI.Infrastructure.Data.Repositories
                          {
                              Id = u.Id,
                              Apelido = u.Apelido,
-                             Cargo = u.Cargo,
-                             Senha = u.Senha
+                             Cargo = u.Cargo
                          }).FirstOrDefault();
             }
             return model;

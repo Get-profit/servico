@@ -19,6 +19,11 @@ namespace ProjetoAPI.Domain.Services
             return _ordemServicoRepository.RecuperaListaOrdemServico();
         }
 
+        public List<OrdemServico> RecuperaListaOrdemServicoAberta()
+        {
+            return _ordemServicoRepository.RecuperaListaOrdemServicoAberta();
+        }
+
         public OrdemServico RecuperaOrdemServico(int id)
         {
             return _ordemServicoRepository.RecuperaOrdemServico(id);

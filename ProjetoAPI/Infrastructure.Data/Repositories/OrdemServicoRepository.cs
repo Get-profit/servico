@@ -15,7 +15,7 @@ namespace ProjetoAPI.Infrastructure.Data.Repositories
             {
                 model = (from os in db.OrdemServico
                          join cli in db.Clientes on os.IdCliente equals cli.Id
-                         orderby os.DataEntrada descending
+                         orderby os.Status == "Aberto", os.DataEntrada descending
                          select new OrdemServico() 
                          { 
                             Id = os.Id,
@@ -35,6 +35,39 @@ namespace ProjetoAPI.Infrastructure.Data.Repositories
                                 Id = cli.Id,
                                 Nome = cli.Nome
                             }
+                         }).ToList();
+            }
+            return model;
+        }
+
+        public List<OrdemServico> RecuperaListaOrdemServicoAberta()
+        {
+            List<OrdemServico> model = null;
+            using (AcessoriosContext db = new AcessoriosContext())
+            {
+                model = (from os in db.OrdemServico
+                         join cli in db.Clientes on os.IdCliente equals cli.Id
+                         where os.Status == "Aberto"
+                         orderby os.DataEntrada descending
+                         select new OrdemServico()
+                         {
+                             Id = os.Id,
+                             DataEntrada = os.DataEntrada,
+                             DataSaida = os.DataSaida,
+                             Defeito = os.Defeito,
+                             SenhaDesbloqueio = os.SenhaDesbloqueio,
+                             Descricao = os.Descricao,
+                             Marca = os.Marca,
+                             Modelo = os.Modelo,
+                             Status = os.Status,
+                             Tipo = os.Tipo,
+                             ValorOrcado = os.ValorOrcado,
+                             IdCliente = os.IdCliente,
+                             IdClienteNavigation = new Clientes()
+                             {
+                                 Id = cli.Id,
+                                 Nome = cli.Nome
+                             }
                          }).ToList();
             }
             return model;

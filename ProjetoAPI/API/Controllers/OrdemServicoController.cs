@@ -27,6 +27,22 @@ namespace API.Controllers
         {
             var mapper = new Mapper(AutoMapperConfig.RegisterMappings());
             var model = mapper.Map<IEnumerable<OrdemServico>, IEnumerable<OrdemServicoModel>>(_ordemServicoAppService.RecuperaListaOrdemServico());
+            if (model == null)
+            {
+                return NotFound();
+            }
+            return Ok(model);
+        }
+
+        [HttpGet("RecuperarTodosAbertos")]
+        public IActionResult RecuperarTodosAbertos()
+        {
+            var mapper = new Mapper(AutoMapperConfig.RegisterMappings());
+            var model = mapper.Map<IEnumerable<OrdemServico>, IEnumerable<OrdemServicoModel>>(_ordemServicoAppService.RecuperaListaOrdemServicoAberta());
+            if (model == null)
+            {
+                return NotFound();
+            }
             return Ok(model);
         }
 

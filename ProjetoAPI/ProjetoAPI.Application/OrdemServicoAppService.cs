@@ -19,6 +19,11 @@ namespace ProjetoAPI.Application
             return _ordemServicoService.RecuperaListaOrdemServico();
         }
 
+        public List<OrdemServico> RecuperaListaOrdemServicoAberta()
+        {
+            return _ordemServicoService.RecuperaListaOrdemServicoAberta();
+        }
+
         public OrdemServico RecuperaOrdemServico(int id)
         {
             return _ordemServicoService.RecuperaOrdemServico(id);

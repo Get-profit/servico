@@ -29,6 +29,12 @@ namespace API
                 options.UseSqlServer(Configuration.GetConnectionString("Acessorios"));
             });
 
+            services.AddCors(o => o.AddPolicy("MyPolicy", builder => {
+                builder.AllowAnyOrigin();
+                builder.AllowAnyMethod();
+                builder.AllowAnyHeader();
+            }));
+
             services.AddTransient(typeof(IRepositoryBase<>), typeof(RepositoryBase<>));
             services.AddTransient<IClientesRepository, ClientesRepository>();
             services.AddTransient<IUsuariosRepository, UsuariosRepository>();
@@ -59,6 +65,7 @@ namespace API
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors("MyPolicy");
             app.UseMvc();
         }
     }
