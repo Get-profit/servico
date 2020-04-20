@@ -23,7 +23,7 @@ namespace ProjetoAPI.Domain.Context
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=104.154.95.95; user=sqlserver; password=acessorios123; Database=Acessorios; integrated security=false;");
+                optionsBuilder.UseSqlServer("Server=35.238.233.3; user=sqlserver; password=acessorios123; Database=Acessorios; integrated security=false;");
             }
         }
 

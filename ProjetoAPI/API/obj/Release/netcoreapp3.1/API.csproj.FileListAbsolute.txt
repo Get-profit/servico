@@ -128,3 +128,4 @@ C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\API\obj\Rel
 C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\API\obj\Release\netcoreapp3.1\API.dll
 C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\API\obj\Release\netcoreapp3.1\API.pdb
 C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\API\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\API\bin\Release\netcoreapp3.1\app.yaml
