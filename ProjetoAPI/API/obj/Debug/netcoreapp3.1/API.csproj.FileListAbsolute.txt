@@ -257,3 +257,4 @@ C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\API\obj\Deb
 C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\API\obj\Debug\netcoreapp3.1\API.pdb
 C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renat\Documents\GitHub\Projeto GetProfit\servico\ProjetoAPI\API\bin\Debug\netcoreapp3.1\app.yaml

@@ -15,7 +15,7 @@ namespace ProjetoAPI.Infrastructure.Data.Repositories
             {
                 model = (from os in db.OrdemServico
                          join cli in db.Clientes on os.IdCliente equals cli.Id
-                         orderby os.Status == "Aberto", os.DataEntrada descending
+                         orderby os.Status, os.DataEntrada descending
                          select new OrdemServico() 
                          { 
                             Id = os.Id,
